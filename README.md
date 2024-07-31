@@ -5,7 +5,7 @@
 
 ### About Me
 
-- 🎓 B.Tech 3rd Year at KIIT University
+- 🎓 B.Tech 4th Year at KIIT University
 - 🌱 Currently Learning Full-Stack Web-Development
 - 👨‍💻 Technologies and Frameworks:
   - Bootstrap
